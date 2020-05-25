@@ -37,6 +37,12 @@ class ExamenJava{
   public static void main(String[] arg){
       System.out.println("Hola Mundo");
         calcularCostoHamburguesaDMP();   
+
+        /*double dato=15.2;
+        int cantidad=2;
+        dato=(double)dato*cantidad;
+        System.out.println("Resultado:"+dato);*/
+
   }
 
 }
